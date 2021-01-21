@@ -2,7 +2,7 @@
 
 <b> Datensatz "ClimaticData95.csv: </b>
 
-Der Datensatz enthält tägliche Daten zur Globalstrahlung und Temperatur (min,max) des Standorts Hannover aus dem Jahr 1995.
+Der Datensatz enthält tägliche Summe der Globalstrahlung sowie die minimal und maximal Temperatur des Standorts Hannover aus dem Jahr 1995.
 
 Quelle: 
 H. Kage, H. Stützel (1999): "A simple empirical model for predicting development and dry matter partitioning in cauliflower (Brassica oleracea L. botrytis)", 
