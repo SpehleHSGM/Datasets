@@ -3,6 +3,7 @@
 <b> Datensatz "ClimaticData95.csv: </b>
 
 Der Datensatz enthält die tägliche Globalstrahlung sowie die Minimal-, Maximal- und Mitteltemperatur des Standorts Geisenheim (FACE) aus dem Jahr 2020.
+
 Quelle: 
 http://rebschutz.hs-geisenheim.de/wetterstationen/daten/wetterdaten.php
 
