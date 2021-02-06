@@ -7,9 +7,9 @@ Der Datensatz enthält die tägliche Globalstrahlung sowie die Minimal-, Maximal
 Quelle: 
 http://rebschutz.hs-geisenheim.de/wetterstationen/daten/wetterdaten.php
 
-<b> Datensatz "Vernalisation_SummerVariety.csv: </b>
+<b> Datensatz "Vernalisation_SummerVariety.csv" & "Vernalisation_WinterVariety.csv" : </b>
 
-Der Datensatz enhält Vernalisationsraten in Abhängigkeit der Temperatur einer Sommersorte von Blumenkohl (Brassica oleracea L. botrytis). 
+Die jeweiligen Datensätze enhalten Vernalisationsraten in Abhängigkeit der Temperatur für eine Sommersorte und Wintersorte der Gemüsekultur Blumenkohl (Brassica oleracea L. botrytis). 
 
 Quelle:
 H. Kage, H. Stützel (1999): "A simple empirical model for predicting development and dry matter partitioning in cauliflower (Brassica oleracea L. botrytis)", 
